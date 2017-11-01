@@ -1,6 +1,7 @@
 ---
-layout: default
-title: About
+title: About this blog
+layout: post
+permalink: /about/
 ---
 
 In my Lifeti.me
