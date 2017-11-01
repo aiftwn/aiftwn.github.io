@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to my blog!"
+date:   2017-10-30 17:06:25
+categories: jekyll update
+---
+
+Test post. I humbly welcome you to my blog.

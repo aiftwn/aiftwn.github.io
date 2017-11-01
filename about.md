@@ -1,13 +1,17 @@
 ---
-title: About Hagura
-layout: post
-permalink: /about/
-published: true
+layout: default
+title: About
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+In my Lifeti.me
+======================
 
-Does the theme deserve a star?
+A blog to blog because I need to work on my writing skills, as well as document my cool ideas and their implementations.
 
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+Features
+-------
+
+* **My ramblings** — Have a look into my adhd-riddled mind and be witness to my psuedo-grand ideas that will change the world. 
+* **Artificial Intelligence** — This blog will include some things about artificial intelligence. Apparently blogging about your programming work makes you a better programmer. But I'm doing this to keep a check on my race to pursue a career in AI.
+* **Chess** — May or may not include stuff about chess. Or even applications of AI in chess.
