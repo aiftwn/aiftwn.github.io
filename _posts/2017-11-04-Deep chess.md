@@ -1,4 +1,4 @@
-List of features a deep chess neural network will need.
+List of features a deep reinforcement learning chess neural network will need.
 -----------
  - Positions of all pieces.
  - Side to move.
@@ -9,5 +9,5 @@ List of features a deep chess neural network will need.
  - Piece based evaluation of game will not be considered. Ex Evaluation parameters like Average Centipawn loss, to me, are useless. The objective of the game is to checkmate the king and not to capture pieces. The might go along hand in hand but they are, in the end, mutually exclusive endeavours. So, I need to award the network for checkmating the king and not to capture pieces. It'll soon learn capturing pieces makes that job easier, I do however want to see if it manages to learn checkmating without keeping capturing pieces in high priority. Which network architecture can implement awarding a single occurrence in a game without a continuous evaluation during the game?
  - In my opinion a true position evaluation would be a binary state - black or white if both sides were to be played by the same engine with the same computing power. Not really relevant to the neural network architecture since continuous position evaluation will not be implemented, but it is relevant to my interests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NjY5MTYzXX0=
+eyJoaXN0b3J5IjpbLTEyNzE5NTE0MTBdfQ==
 -->
